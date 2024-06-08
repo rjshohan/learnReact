@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: blue;
+    height: 40px;
+}
+.sidebar{
+    height: 90vh;
+    width: 100px;
+    background: yellowgreen;
+}
+.content{
+    height: 90vh;
+    width: calc(100% - 200px);
+    background-color: black;
+}
+.footer{
+    height: 40px;
+    background-color: red;
+} */
+
+.app{
+margin: 100px;
+}
+.single_person{
+    list-style: none;
+    border: 2px solid red;
+}
